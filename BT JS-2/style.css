@@ -1,0 +1,48 @@
+*{
+	font-size:16px;
+}
+body{
+	margin:0;
+	background-color:lavender;
+}
+#div2{
+	background-color:aqua;
+	display:block;
+	text-align:center;
+	height:50px;
+	line-height:300%;
+	position:relative;
+	float:left;
+	width:95%;
+	height:50px;
+	margin-bottom:20px;
+
+}
+#div1{
+	background-color:green;
+	position:relative;
+	height:60px;
+	display:flex;
+}
+#innerhtml{
+	color:red;
+	margin-right: auto;
+    margin-left: auto;
+	height:90%;
+	float:left;
+	text-align:center;
+}
+#btn_create{	
+	margin-right: auto;
+    margin-left: auto;
+	height:100%;
+	width:200px;
+	float:right;
+}
+#btn_delete{
+	float:right;
+	width:5%;
+	height:50px;
+	background-color:aqua;
+	border:none;
+}
